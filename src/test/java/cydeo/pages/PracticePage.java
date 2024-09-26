@@ -38,7 +38,7 @@ public class PracticePage {
         // ENV VARIABLE ?
 
         /*
-        String username = ConfigurationReader.getProperty("username");
+        String username = ConfigurationReader.getProperty("username")
         String password = ConfigurationReader.getProperty("password");
          */
 
